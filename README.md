@@ -1,7 +1,7 @@
 socket_C_chat
 =============
 
-Linux or MacOS socket program to use for chatting
+Linux or MacOS socket program for chatting
 
 =============
 1. ./chat_server
